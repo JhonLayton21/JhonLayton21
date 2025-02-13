@@ -10,17 +10,17 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="300" width="300" align="right"/>
 
-- 👨🏾‍🎓 I’m currently studying >>technology in software development<< on Universitaria Uniagustiniana. Bogotá, Colombia 🇨🇴
+👨🏾‍🎓 I studied a technological degree in software development at the Uniagustiniana University. Bogotá, Colombia 🇨🇴
 
-- 💻 I am developing my degree project, which is an inventory control and management system for a chair company
+💻 My degree project was an inventory control system for products, sales, customers, suppliers and reports for a chair company
 
-- 👜 I am working independently on projects such as landing pages, images and advertising videos 
+👜 I have worked independently on projects such as landing pages, web applications and social media content
 
-- 👨 I’m a passionate boy with hobbies like videogames, music, graphic design and sports 
-  
-- 🌱 I’m currently learning Git, React & Astro
-  
-- ⚡ proactive, friendly, hard-working, curious, committed
+👨 I am a passionate boy with hobbies such as video games, music, graphic design and sports
+
+🌱 I'm currently learning Git, React and Astro
+
+⚡ Proactive, friendly, hard-working, curious, committed
 
 ## ⚙️ Github Analytics
 
