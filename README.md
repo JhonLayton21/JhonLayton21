@@ -9,7 +9,7 @@
 ## 🔭 About me 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="300" width="300" align="right"/>
-👨🏾‍🎓 I'm currenlty studying at the Politécnico Grancolombiano. Bogotá, Colombia 🇨🇴
+👨🏾‍🎓 I'm currenlty studying Software Engineering at the Politécnico Grancolombiano. Bogotá, Colombia 🇨🇴
 
 👨🏾‍🎓 I studied a technological degree in software development at the Uniagustiniana University. Bogotá, Colombia 🇨🇴
 
